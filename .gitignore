@@ -1,1 +1,3 @@
 build
+data*
+generate_data.py
